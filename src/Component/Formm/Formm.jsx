@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Container } from 'react-bootstrap';
 import getRec from '../../helper'
-import NotData from '../../assets/notdata.avif'
+import NotData from '../../assets/notdata.png'
 import './Formm.css'
 
 function Formm() {
